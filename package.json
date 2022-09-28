@@ -1,0 +1,26 @@
+{
+  "name": "onekey-layout",
+  "version": "1.0.0",
+  "description": "one key create web layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "onekey",
+    "layout"
+  ],
+  "author": "blcloak",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.15.5",
+    "vue": "^2.6.11",
+    "vue-axios": "^3.4.0",
+    "vue-grid-layout": "^2.3.12",
+    "vue-router": "^3.2.0"
+  },
+  "devDependencies": {
+  }
+}
