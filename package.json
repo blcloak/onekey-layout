@@ -1,6 +1,6 @@
 {
   "name": "onekey-layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "one key create web layout",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
     "layout"
   ],
   "repository": {
-  "type": "git",
-  "url": "https://github.com/blcloak/onekey-layout.git"
-},
+    "type": "git",
+    "url": "https://github.com/blcloak/onekey-layout.git"
+  },
   "author": "blcloak",
   "license": "ISC",
   "dependencies": {
