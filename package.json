@@ -10,6 +10,10 @@
     "onekey",
     "layout"
   ],
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/blcloak/onekey-layout.git"
+},
   "author": "blcloak",
   "license": "ISC",
   "dependencies": {
