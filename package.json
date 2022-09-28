@@ -21,6 +21,5 @@
     "vue-grid-layout": "^2.3.12",
     "vue-router": "^3.2.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
